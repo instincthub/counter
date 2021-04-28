@@ -5,5 +5,9 @@ You will learn how to structure your HTML and apply basic CSS styling. Also, wit
 The aim of this project is to get you a working and practical idea in how you can use JavaScript to manipulate the DOM. When you have a project that is counter related, you can always make references to this tutorial. 
 
 ## Javascript Functions:
-* counterBtn()
-* displayCounter()
+* counterBtn() *- Declared*
+* textContent() *- Inbuilt*
+* parseFloat() *- Inbuilt*
+
+* If Statement *- Inbuilt*
+* style.backgroundColor *- Inbuilt*
